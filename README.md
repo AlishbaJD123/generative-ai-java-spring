@@ -77,6 +77,14 @@ Interact with OpenAI's chat model.
 
 ---
 
+## Output Examples
+
+### Generated Text Example
+![Generated Text](src/main/resources/images/generated-text.jpeg)
+
+### Generated Image Example
+![Taj Mahal](src/main/resources/images/taj-mahal.jpeg)
+
 ## Technologies Used
 
 - **Spring Boot** 3.3.x
